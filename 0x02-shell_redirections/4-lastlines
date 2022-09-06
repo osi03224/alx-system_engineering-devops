@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'tail -10 /etc/passwd
+echo 'Display the last 10 lines of /etc/passwd'
