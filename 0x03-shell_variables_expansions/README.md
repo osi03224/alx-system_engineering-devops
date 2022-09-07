@@ -34,3 +34,4 @@ Create a script that prints all possible combinations of two letters, except oo
 Write a script that prints a number with two decimal places, followed by a new line
 Write a script that converts a number from base 10 to base 16
 Write a script that prints every other line from the input, starting with the first line
+Write a script that prints every other line from the input, starting with the first line
