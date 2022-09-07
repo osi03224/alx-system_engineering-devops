@@ -12,3 +12,4 @@ Write a script that displays the third line of the file iacta
 Write a script that displays the third line of the file iacta
 Write a shell script that creates a file named exactly
 Write a script that displays all users and their home directories, sorted by users
+Write a script that reverse its input
