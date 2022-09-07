@@ -25,3 +25,4 @@ Write a script that prints the result of the addition of 128 with the value stor
 Create a script that counts the number of directories in the PATH
 Create a script that counts the number of directories in thePATH
 Create a script that counts the number of directories in the PATH
+Create a script that creates a new global variable
