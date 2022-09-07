@@ -1,3 +1,2 @@
-readm
 #!/bin/bash
-echo find ./* -type d -print | wc -le
+find ./* -type d -print | wc -l
